@@ -1,0 +1,2 @@
+{:deps {appliedscience/js-interop {:mvn/version "0.1.10"}
+        kitchen-async {:mvn/version "0.1.0-SNAPSHOT"}}}
